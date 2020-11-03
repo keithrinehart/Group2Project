@@ -1313,7 +1313,7 @@ a:hover {
   width: 80%;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: 35% 10% 10%;
+  grid-template-columns: 35% 14% 10%;
   grid-gap: 4em;
   justify-content: center;
 }
@@ -1321,8 +1321,9 @@ a:hover {
 
 .wrapper > div:nth-child(2) {
   
-  margin-top: 120px;
-  padding: 20px 0;
+  margin-top: 102px;
+  padding: 35px 0;
+  
 }
 
 .wrapper > div:nth-last-child(odd) {
@@ -1332,7 +1333,7 @@ a:hover {
 }
 
 .wrapper > div:nth-child(3) {
-  margin-top: 200px; 
+  margin-top: 165px; 
   
 }
 
@@ -1355,7 +1356,7 @@ form {
 
 .h3-two {
   text-align: left;
-  font-size: 30px;
+  font-size: 19px;
   font-weight: 700;
   font-family: 'Montserrat', sans-serif;
 }
@@ -1421,7 +1422,9 @@ cursor: pointer;
 
 
 .sec-6-h3 {
-padding-bottom: 20px;
+  padding-bottom: 20px;
+  font-size: 19px;
+  font-weight: 700;
 }
 
 
