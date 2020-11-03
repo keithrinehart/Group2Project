@@ -1500,6 +1500,8 @@ footer {
 }
 
 .sub-h4 {
+  position: relative;
+  bottom: 23px;
   color: #fff;
 }
 
@@ -1536,8 +1538,9 @@ footer {
 
 
 #footer-submit {
-  font-size: 12px;
+  font-size: 11px;
   margin: 30px 0 10px 0;
+  padding: 10px;
   color: #fff;
   background-color: rgba(100, 148, 237, 0);
   border: 1px solid  rgb(26, 216, 250);
@@ -1547,6 +1550,11 @@ footer {
 #footer-submit:hover {
   background-color: rgba(255, 255, 255, 0.281);
   transition: 0.4s;
+}
+
+.site-hov:hover {
+  background-color: rgb(151, 231, 245);
+  border-radius: 50%;
 }
 
 
