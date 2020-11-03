@@ -632,7 +632,7 @@ a:hover {
 .header-button-s1:hover {
   color: #fff;
   background-color: rgb(55, 224, 247);
-  border: 1px solid #fff;
+  border: 1px solid  rgb(55, 224, 247);
 }
 
 /******** Section 2 ************/
@@ -1005,7 +1005,9 @@ a:hover {
 
 
 .sec-5-a:hover {
-  background-color: #fff;
+  background-color:  rgb(55, 225, 247);
+  color: #fff;
+  border: 1px solid #fff;
 }
 
 
