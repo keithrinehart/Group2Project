@@ -985,6 +985,31 @@ a:hover {
 
 
 
+
+.sect-5-p-2 {
+  margin-top: 100px;
+  padding-bottom: 30px;
+  color: #fff;
+  font-size: 16px;
+}
+
+.sec-5-a {
+  padding: 8px;
+  font-size: 12px;
+  font-weight: 700;
+  color: rgb(55, 225, 247);
+  border: 1px solid rgb(55, 225, 247);
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+
+.sec-5-a:hover {
+  background-color: #fff;
+}
+
+
+
 @media screen and (max-width: 876px) and (min-width: 765px){
 
 
